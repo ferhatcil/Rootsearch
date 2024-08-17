@@ -2,3 +2,4 @@ fastapi
 uvicorn
 pydantic
 pymongo
+logease==0.1.0
